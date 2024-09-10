@@ -37,7 +37,7 @@ flutter pub get
 Run the app:
 
 ```
-flutter run android
+flutter run
 ```
 
 ## Kotlin
