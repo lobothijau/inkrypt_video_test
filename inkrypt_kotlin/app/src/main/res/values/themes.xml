@@ -1,0 +1,8 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.InkryptVideos" parent="Theme.Material3.Light.NoActionBar">
+        <!-- Customize your light theme here. -->
+    </style>
+
+    <style name="Theme.InkryptVideos" parent="Base.Theme.InkryptVideos" />
+</resources>
